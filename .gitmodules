@@ -1,0 +1,3 @@
+[submodule "submodule_servico_persistencia"]
+	path = submodule_servico_persistencia
+	url = https://github.com/pedrowil12/servico_persistencia
